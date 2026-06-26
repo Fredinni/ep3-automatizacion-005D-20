@@ -1,0 +1,21 @@
+
+============================================================
+     CERTIFICADO DE COMPLIANCE DE RED
+============================================================
+Alumno      : Vasquez Cortes Freddy
+Codigo      : 005D-20
+Empresa     : Supermercados Cord Ltda
+Router      : RTR-SUPCORD
+IP Router   : 192.168.56.103
+Fecha       : 2026-06-26 03:20:24.806456
+Host VM     : labvm
+------------------------------------------------------------
+RESULTADO NETCONF   : CONFORME
+RESULTADO RESTCONF  : CONFORME
+RESULTADO DIFF      : CONFORME
+------------------------------------------------------------
+RESULTADO GLOBAL    : CONFORME
+============================================================
+El equipo ha sido configurado y validado exitosamente.
+Listo para operar en produccion.
+============================================================

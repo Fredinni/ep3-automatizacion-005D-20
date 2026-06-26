@@ -1,0 +1,31 @@
+[2026-06-26 03:06:12,092] +++ CSR1kv logfile evidencias/snapshot_final_005D-20/connection_CSR1kv.txt +++
+[2026-06-26 03:06:12,093] +++ Unicon plugin iosxe +++
+Warning: Permanently added '192.168.56.103' (RSA) to the list of known hosts.
+
+[2026-06-26 03:06:12,398] +++ connection to spawn: ssh -l cisco 192.168.56.103 -p 22, id: 140306831842320 +++
+[2026-06-26 03:06:12,398] connection to CSR1kv
+Password: 
+ ACCESO RESTRINGIDO - SUPCORD 
+
+
+RTR-SUPCORD#[2026-06-26 03:07:54,696] +++ CSR1kv logfile evidencias/snapshot_final_005D-20/connection_CSR1kv.txt +++
+[2026-06-26 03:07:54,696] +++ Unicon plugin iosxe +++
+Warning: Permanently added '192.168.56.103' (RSA) to the list of known hosts.
+
+[2026-06-26 03:07:55,024] +++ connection to spawn: ssh -l cisco 192.168.56.103 -p 22, id: 140469307129088 +++
+[2026-06-26 03:07:55,024] connection to CSR1kv
+Password: 
+ ACCESO RESTRINGIDO - SUPCORD 
+
+
+RTR-SUPCORD#[2026-06-26 03:17:45,408] +++ CSR1kv logfile evidencias/snapshot_final_005D-20/connection_CSR1kv.txt +++
+[2026-06-26 03:17:45,408] +++ Unicon plugin iosxe +++
+Warning: Permanently added '192.168.56.103' (RSA) to the list of known hosts.
+
+[2026-06-26 03:17:45,744] +++ connection to spawn: ssh -l cisco 192.168.56.103 -p 22, id: 140492513836288 +++
+[2026-06-26 03:17:45,746] connection to CSR1kv
+Password: 
+ ACCESO RESTRINGIDO - SUPCORD 
+
+
+RTR-SUPCORD#
