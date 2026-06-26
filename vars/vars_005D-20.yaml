@@ -13,7 +13,7 @@ router:
     loopback_id: 10
     loopback_ip: "10.5.20.1"
     loopback_mask: "255.255.255.0"
-    loopback_prefix "24"
+    loopback_prefix: "24"
     descripcion_wan: "Enlace-WAN-San-Antonio"
     banner: "ACCESO RESTRINGIDO - SUPCORD"
     ntp_server: "208.67.222.222"
