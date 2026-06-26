@@ -1,0 +1,18 @@
+============================================================
+Script      : validacion_netconf.py
+Fecha/Hora  : 2026-06-26 02:56:00.651490
+Host VM     : labvm
+============================================================
+
+Conectando via NETCONF...
+XML guardado en evidencias/rpc_reply_raw.xml
+
+--- REPORTE DE VALIDACION NETCONF ---
+[OK] Hostname corporativo: esperado='RTR-SUPCORD' obtenido='RTR-SUPCORD'
+[OK] Descripcion WAN: esperado='Enlace-WAN-San-Antonio' obtenido='Enlace-WAN-San-Antonio'
+[OK] IP Loopback: esperado='10.5.20.1' obtenido='10.5.20.1'
+[OK] Mascara Loopback: esperado='255.255.255.0' obtenido='255.255.255.0'
+[OK] Servidor NTP: esperado='208.67.222.222' obtenido='208.67.222.222'
+
+--- RESULTADO GLOBAL ---
+CONFORME — 5/5 criterios validados correctamente
