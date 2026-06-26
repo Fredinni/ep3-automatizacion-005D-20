@@ -1,0 +1,16 @@
+============================================================
+Script      : validacion_restconf.py
+Fecha/Hora  : 2026-06-26 03:02:45.926981
+Host VM     : labvm
+============================================================
+
+Consultando endpoints RESTCONF...
+
+--- REPORTE DE VALIDACION RESTCONF ---
+[OK] Hostname corporativo: esperado='RTR-SUPCORD' obtenido='RTR-SUPCORD'
+[OK] IP Loopback: esperado='10.5.20.1' obtenido='10.5.20.1'
+[OK] Descripcion WAN: esperado='Enlace-WAN-San-Antonio' obtenido='Enlace-WAN-San-Antonio'
+[OK] Servidor NTP: esperado='208.67.222.222' obtenido='208.67.222.222'
+
+--- RESULTADO GLOBAL ---
+CONFORME — 4/4 criterios validados correctamente
